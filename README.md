@@ -23,11 +23,16 @@ Período: 2010 a 2026
 
 ## Perguntas de negócio
 
-1. Qual a evolução anual de internações por leucemia no PR entre 2010 e 2026?
-2. Como a taxa de mortalidade por leucemia varia entre faixas etárias?
-3. Qual o tipo de leucemia com maior número de óbitos?
-4. Existe diferença na distribuição de casos entre sexos ao longo dos anos?
-5. Quais municípios do PR concentram mais internações por leucemia?
+### 1. Qual a evolução anual de internações por leucemia no PR entre 2010 e 2025?
+![Dashboard](img/2.png)
+### 2. Como a taxa de mortalidade por leucemia varia entre faixas etárias?
+![Dashboard](img/3.png)
+### 3. Qual o tipo de leucemia com maior número de óbitos?
+![Dashboard](img/4.png)
+### 4. Existe diferença na distribuição de casos entre sexos ao longo dos anos?
+![Dashboard](img/5.png)
+### 5. Quais municípios do PR concentram mais internações por leucemia?
+![Dashboard](img/6.png)
 
 ---
 
